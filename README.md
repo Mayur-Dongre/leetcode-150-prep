@@ -129,28 +129,30 @@ This repository contains my personal progress on the **NeetCode 150**, a curated
 - Burst Balloons, Regular Expression Matching  
 
 ### Greedy (8)
-- Maximum Subarray  
-- Jump Game I & II  
-- Gas Station  
-- Hand of Straights  
-- Merge Triplets to Form Target Triplet  
-- Partition Labels  
-- Valid Parenthesis String  
+1. Maximum Subarray (Medium)
+2. Jump Game (Medium)
+3. Jump Game II (Medium)
+4. Gas Station (Medium)
+5. Hand of Straights (Medium)
+6. Merge Triplets to Form Target Triplet (Medium)
+7. Partition Labels (Medium)
+8. Valid Parenthesis String (Medium)
 
 ### Intervals (6)
-- Insert Interval  
-- Merge Intervals  
-- Non‑Overlapping Intervals  
-- Meeting Rooms I & II  
-- Minimum Interval to Include Each Query  
+1. Insert Interval (Medium)
+2. Merge Intervals (Medium)
+3. Non-overlapping Intervals (Medium)
+4. Meeting Rooms (Easy)
+5. Meeting Rooms II (Medium)
+6. Minimum Interval to Include Each Query (Hard)
 
 ### Bit Manipulation (7)
-- Single Number  
-- Number of 1 Bits  
-- Counting Bits  
-- Reverse Bits  
-- Missing Number  
-- Sum of Two Integers  
-- Reverse Integer  
+1. Single Number (Easy)
+2. Number of 1 Bits (Easy)
+3. Counting Bits (Easy)
+4. Reverse Bits (Easy)
+5. Missing Number (Easy)
+6. Sum of Two Integers (Medium)
+7. Reverse Integer (Medium)
 
 ---
